@@ -1,4 +1,4 @@
-Explore a mysterious and changing 12th century fortress in this original roguelike. Wearing a backpack, a head flashlight and a lighter, explore by stealth, hide, collect materials, craft tools, discover secrets, upgrade your abilities... but mostly stay in the light.
+![image](https://github.com/Light2live-spec/Light2live-spec.github.io/assets/109050353/beccb076-dd6a-408e-9d0b-4ac681ff19f9)Explore a mysterious and changing 12th century fortress in this original roguelike. Wearing a backpack, a head flashlight and a lighter, explore by stealth, hide, collect materials, craft tools, discover secrets, upgrade your abilities... but mostly stay in the light.
 Light2live is a survival horror roguelike whose main objective is to escape from a fortress. The light plays an important role here.
 
 
