@@ -28,3 +28,6 @@ Supported languages
 
 English
 Spanish
+
+
+DOWNLOAD: 
